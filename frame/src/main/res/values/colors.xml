@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 基础颜色 -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+    <color name="light_black">#222</color>
+    <color name="light_grey">#eee</color>
+    <color name="grey">#ddd</color>
+    <color name="deep_grey">#aaa</color>
+    <color name="light_dark">#999</color>
+    <color name="dark">#666</color>
+    <color name="deep_dark">#333</color>
+
+    <!-- 半透明 -->
+    <color name="translucent">#7F000000</color>
+
+    <color name="transparent">#00000000</color>
+</resources>
